@@ -1,4 +1,28 @@
 # Project-Zomato
+
+## 📂 Project Snapshots  
+
+### 📊 Dashboards  
+### 🛢️ Tableau Analysis  
+![Tableau Dashboard]([./assets/1.Tableau%20Dashboard%20Snapshot.jpeg](https://github.com/TusharKundekar/Project-Zomato-/blob/main/assets/1.Tableau%20Dashboard%20Snapshot.jpeg))
+
+### 🛢️ Excel Analysis  
+![Excel Dashboard](https://github.com/TusharKundekar/Project-Zomato-/blob/main/assets/2.Excel%20Dashboard%20Snapshot.jpeg)  
+
+### 🛢️ Power BI Analysis  
+![Power%20BI%20Dashboard%201](https://github.com/TusharKundekar/Project-Zomato-/blob/main/assets/3.%20Power%20BI%20Dashboard%20Snapshot-I.jpeg)  
+![Power BI Dashboard 2](https://github.com/TusharKundekar/Project-Zomato-/blob/main/assets/4%20.%20Power%20BI%20Dashboard%20Snapshot-II.jpeg)
+
+
+### 🛢️ SQL Analysis  
+![SQL Snapshot 1](./assets/5.SQL%20Zomato%20Analysis%20Snapshot-I.png)  
+![SQL Snapshot 2](./assets/6.SQL%20Zomato%20Analysis%20Snapshot-II.png)  
+![SQL Snapshot 3](./assets/7.SQL%20Zomato%20Analysis%20Snapshot-III.png)
+
+---
+
+
+
 🍽️ Zomato data analytics project analyzing customer behavior, sales trends &amp; restaurant performance 📊 using SQL, Excel, Tableau &amp; Power BI 💻. Includes data modeling, DAX &amp; interactive dashboards 🚀 to deliver actionable insights and support data-driven decisions 📈.
 
 # 🍽️ Zomato Business Insights: Customer Behavior & Sales Performance  
@@ -26,22 +50,6 @@ The Zomato Business Insights project analyzes food delivery data to identify key
 - 🍴 Customer Behavior Insights  
 - 🗺️ Location-Based Performance Analysis  
 - 📅 Time-Series Trends  
-
----
-
-## 📂 Project Snapshots  
-
-### 📊 Dashboards  
-![Tableau Dashboard](./assets/1.Tableau%20Dashboard%20Snapshot.jpeg)
-![Excel Dashboard](./assets/2.Excel%20Dashboard%20Snapshot.jpeg)  
-![Power%20BI%20Dashboard%201](./assets/3.%20Power%20BI%20Dashboard%20Snapshot-I.jpeg)  
-![Power BI Dashboard 2](https://github.com/TusharKundekar/Project-Zomato-/blob/main/assets/4%20.%20Power%20BI%20Dashboard%20Snapshot-II.jpeg)
-
-
-### 🛢️ SQL Analysis  
-![SQL Snapshot 1](./assets/5.SQL%20Zomato%20Analysis%20Snapshot-I.png)  
-![SQL Snapshot 2](./assets/6.SQL%20Zomato%20Analysis%20Snapshot-II.png)  
-![SQL Snapshot 3](./assets/7.SQL%20Zomato%20Analysis%20Snapshot-III.png)
 
 ---
 
