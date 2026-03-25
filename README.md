@@ -1,10 +1,11 @@
-# Project-Zomato
+## Project-Zomato
+##🍽️ Zomato data analytics project analyzing customer behavior, sales trends &amp; restaurant performance 📊 using SQL, Excel, Tableau &amp; Power BI 💻. Includes data modeling, DAX &amp; interactive dashboards 🚀 to deliver actionable insights and support data-driven decisions 📈.
 
 ## 📂 Project Snapshots  
 
 ### 📊 Dashboards  
 ### 🛢️ Tableau Analysis  
-![Tableau Dashboard]([./assets/1.Tableau%20Dashboard%20Snapshot.jpeg](https://github.com/TusharKundekar/Project-Zomato-/blob/main/assets/1.Tableau%20Dashboard%20Snapshot.jpeg))
+![Tableau Dashboard](https://github.com/TusharKundekar/Project-Zomato-/blob/main/assets/1.Tableau%20Dashboard%20Snapshot.jpeg)
 
 ### 🛢️ Excel Analysis  
 ![Excel Dashboard](https://github.com/TusharKundekar/Project-Zomato-/blob/main/assets/2.Excel%20Dashboard%20Snapshot.jpeg)  
@@ -20,10 +21,6 @@
 ![SQL Snapshot 3](./assets/7.SQL%20Zomato%20Analysis%20Snapshot-III.png)
 
 ---
-
-
-
-🍽️ Zomato data analytics project analyzing customer behavior, sales trends &amp; restaurant performance 📊 using SQL, Excel, Tableau &amp; Power BI 💻. Includes data modeling, DAX &amp; interactive dashboards 🚀 to deliver actionable insights and support data-driven decisions 📈.
 
 # 🍽️ Zomato Business Insights: Customer Behavior & Sales Performance  
 
